@@ -1,0 +1,7 @@
+selenium
+collections
+requests
+os
+cv2
+shutil
+instagrapi
